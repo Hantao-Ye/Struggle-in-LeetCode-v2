@@ -2,20 +2,17 @@
 
 New repo for recording LeetCode practice
 
-![LeetCode CN](https://leetcard.jacoblin.cool/Hantao-Ye?theme=dark&ext=heatmap)
+![LeetCode Board](https://leetcard.jacoblin.cool/Hantao-Ye?ext=heatmap)
 
 ```shell
+$ tree -L 1
 .
 ├── acm # questions from https://kamacoder.com/
-├── arrays
-├── daily
-├── design
-├── linkedlist
+├── daily # daily question
+├── grind75 # question from https://www.techinterviewhandbook.org/grind75/
 ├── README.md
-├── sorting_searching
-├── strings
-├── tree
-└── weekly # Weekly contest recording
+├── topics # different topics in top 150
+└── weekly # weekly contest
 
-10 directories, 1 file
+5 directories, 1 file
 ```
